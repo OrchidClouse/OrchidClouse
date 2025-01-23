@@ -45,5 +45,9 @@
     </td>
   </tr>
  <tr>
+           <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=emotion" width="48" height="48" alt="jquery" />
+      <br>Emotion
+    </td>
  </tr>
 </table>
