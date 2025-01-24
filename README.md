@@ -49,5 +49,21 @@
         <img src="https://skillicons.dev/icons?i=emotion" width="48" height="48" alt="jquery" />
       <br>Emotion
     </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="jquery" />
+      <br>NestJS
+    </td>
+                 <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="jquery" />
+      <br>Redux
+    </td>
+                    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="jquery" />
+      <br>SASS
+    </td>
+                       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="jquery" />
+      <br>ThreeJS
+    </td>
  </tr>
 </table>
