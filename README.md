@@ -23,8 +23,8 @@
       <br>CSS
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs"/>
+      <br>NextJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="tailwind" />
