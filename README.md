@@ -113,7 +113,7 @@
     </td>
           <td align="center" width="96">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative"/>
-      <br>React Native
+      <br>RN
     </td>
  </tr>
 </table>
