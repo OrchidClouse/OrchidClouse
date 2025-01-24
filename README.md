@@ -60,6 +60,23 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="jquery" />
+      <br>Jest
+    </td>
+                <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="jquery" />
+      <br>Figma
+    </td>
+                    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="jquery" />
+      <br>Electron
+    </td>
+                        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="jquery" />
+      <br>Cypress
+    </td>
+    
   </tr>
  <tr>
            <td align="center" width="96">
@@ -81,6 +98,22 @@
                        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="jquery" />
       <br>ThreeJS
+    </td>
+                          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="jquery" />
+      <br>Babel
+    </td>
+    <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=barbajs"/>
+      <br>BarbaJS
+    </td>
+       <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=preact"/>
+      <br>Preact
+    </td>
+          <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative"/>
+      <br>React Native
     </td>
  </tr>
 </table>
